@@ -1,0 +1,6 @@
+---
+published: true
+title: second
+layout: post
+---
+ok ,the first one failed
