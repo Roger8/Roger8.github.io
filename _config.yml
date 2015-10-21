@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Roger8.github.io
+title: Roger¡®s 
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
