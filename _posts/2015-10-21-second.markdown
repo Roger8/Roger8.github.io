@@ -1,9 +1,11 @@
 ---
 published: true
-title: second post
+title: example
 layout: post
 ---
+
 the first example 
+
 ```cpp
 #include <stddef.h> /* for size_t */
 size_t strlen(const char *s) {
