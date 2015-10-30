@@ -3,8 +3,8 @@ published: true
 title: second post
 layout: post
 ---
-ok ,the first one failed
-{% highlight c %}
+the first example 
+```cpp
 #include <stddef.h> /* for size_t */
 size_t strlen(const char *s) {
     size_t i;
@@ -29,4 +29,6 @@ int main()
 
 char* p = "Hello world"; /* the literal string is copied in the read-only section of memory (any attempt to modify it is an undefined behavior) */
 }
-{% endhight %}
+```
+
+&copy;Roger Corp.
