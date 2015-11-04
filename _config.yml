@@ -21,17 +21,17 @@ shTheme: shThemeDefault # shThemeDefault  shThemeDjango  shThemeEclipse  shTheme
 #感谢您克隆此模板,但在使用前麻烦请把"<---"标记的更换成您的信息或删除(值留空白即可).非常感谢.
 #使用前阅读↑↑↑↑↑↑↑↑↑
 blog:
-    name: Roger8 Home                                         # 博客名称
+    name: Roger8                                        # 博客名称
     description:  U may delay, but time will Not .                # 博客描述
     title: Roger8                                    # 网页标题
     url: http://Roger8.github.io/                         # 博客地址
     duoshuo: Roger8                                       # 多说ID       <---
-    tongji: e0d9a75a7e53b54cd1e6649facd5906e             # 百度统计ID   <--- 
+    tongji: e0d9a75a7e53b  c   d1e6649f5906e             # 百度统计ID   <--- 
     clickiTongJi: 51831					 # Clicki统计ID <---
     qiniu:                                               # 七牛云地址
 author:
     name: Roger8                                          # 作者名称
-    email: waiting@me                                # 邮箱地址
+    email: waiting@4me                                # 邮箱地址
     weibo: http://weibo.com/                        # 微博地址
     github: https://github.com/Roger8                     # GitHub地址
     logo: /res/img/icon.png                              # logo地址
