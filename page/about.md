@@ -30,9 +30,7 @@ blockquote p {
 
 
 > 网名: Roger8   
-> Email: <a href="mailto:@vip.qq.com">kk@vip.qq.com</a><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kk@hotmail.com">kk@hotmail.com</a>  
-> 微&nbsp;&nbsp;博: <a href="http://weibo.com/comtu">@Roger8</a>  
+> Email: <a href="mailto:qq.com">kk@vip</a><br />
 > 博&nbsp;&nbsp;客: <a href="http://Roger8.github.io/">Roger8</a>  
 > GitHub：[Roger8](https://github.com/roger8)  
 > ....
