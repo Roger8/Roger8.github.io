@@ -12,7 +12,7 @@ paginate_path: page/:num
 
 #SyntaxHihglighter config start
 
-SyntaxHihglighter: false
+SyntaxHihglighter: true
 shTheme: shThemeDefault # shThemeDefault  shThemeDjango  shThemeEclipse  shThemeEmacs  shThemeFadeToGrey  shThemeMidnight  shThemeRDark
 
 #SyntaxHihglighter config end
@@ -23,11 +23,11 @@ shTheme: shThemeDefault # shThemeDefault  shThemeDjango  shThemeEclipse  shTheme
 blog:
     name: Roger8                                        # 博客名称
     description:  U may delay, but time will Not .                # 博客描述
-    title: Roger8                                    # 网页标题
+    title: Roger8 Home                                    # 网页标题
     url: http://Roger8.github.io/                         # 博客地址
-    duoshuo: Roger8                                       # 多说ID       <---
-    tongji: e0d9a75a7e53b  c   d1e6649f5906e             # 百度统计ID   <--- 
-    clickiTongJi: 51831					 # Clicki统计ID <---
+    duoshuo:                                             # 多说ID       <---
+    tongji:                                       # 百度统计ID   <--- 
+    clickiTongJi:     					 # Clicki统计ID <---
     qiniu:                                               # 七牛云地址
 author:
     name: Roger8                                          # 作者名称
