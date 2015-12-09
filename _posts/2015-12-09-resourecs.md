@@ -1,4 +1,13 @@
 ---
+layout : post
+title : "resources"
+category : blog
+duoshuo: true
+date : 2015-12-09
+tags : [resources ]
+---
+## 
+---
 **电子书**
 1. The Martian <a href="/res/file/The Martian.txt">下载
 
